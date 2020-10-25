@@ -50,7 +50,7 @@ function Header() {
 
       <div className="header_right">
         <div className="header_info">
-          <Avatar src="" />
+          <Avatar />
           <h4>"testing period"</h4>
         </div>
         <IconButton>
